@@ -1,0 +1,679 @@
+[
+  {
+    "id": "scan-230974d126",
+    "createdAt": "2026-11-18T19:33:04.572Z",
+    "input": {
+      "title": "Clinical Pharmacist - Outpatient Oncology",
+      "companyName": "Gulf Coast Cancer Institute",
+      "companyWebsite": "https://gulfcoastcancer.org",
+      "location": "Houston, TX",
+      "salary": "$135,000 - $158,000 / year",
+      "description": "Verify chemotherapy dosing protocols, counsel oncology patients on supportive care regimens, participate in daily multidisciplinary hematology rounds, and ensure USP 800 sterile compounding compliance across infusion clinics. Requires PharmD degree, active state licensure in good standing, and PGY1 or PGY2 oncology residency. Full malpractice insurance, CME allowance, medical/dental benefits, and retirement matching provided. PharmD, Active State Pharmacist License, PGY1/PGY2 Residency, USP 800",
+      "requiredSkills": "PharmD, Active State Pharmacist License, PGY1/PGY2 Residency, USP 800",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    "verdict": "Genuine",
+    "riskLevel": "Low",
+    "riskPercentage": 10.3,
+    "genuineProbability": 89.65,
+    "fakeProbability": 10.35,
+    "suspiciousIndicators": [
+      "Standard corporate phrasing and consistent job structure"
+    ],
+    "explanation": "The Logistic Regression classifier evaluated this posting as Genuine with 89.7% confidence (36 matched TF-IDF features). Legitimacy-weighted terms such as \"state\", \"year\", \"oncology\", \"residency\" outweighed risk indicators.",
+    "topSuspiciousWords": [
+      {
+        "term": "Currency amount ($)",
+        "tfidf": 0.1311,
+        "weight": 2.0664,
+        "contribution": 0.2708
+      },
+      {
+        "term": "active",
+        "tfidf": 0.2078,
+        "weight": 0.5592,
+        "contribution": 0.1162
+      },
+      {
+        "term": "dai",
+        "tfidf": 0.0972,
+        "weight": 0.931,
+        "contribution": 0.0905
+      },
+      {
+        "term": "verify",
+        "tfidf": 0.1499,
+        "weight": 0.1016,
+        "contribution": 0.0152
+      },
+      {
+        "term": "full",
+        "tfidf": 0.1178,
+        "weight": 0.1092,
+        "contribution": 0.0129
+      },
+      {
+        "term": "degree",
+        "tfidf": 0.1376,
+        "weight": 0.021,
+        "contribution": 0.0029
+      }
+    ],
+    "topGenuineSignals": [
+      {
+        "term": "state",
+        "tfidf": 0.2471,
+        "weight": -0.8523,
+        "contribution": -0.2106
+      },
+      {
+        "term": "year",
+        "tfidf": 0.0632,
+        "weight": -2.1871,
+        "contribution": -0.1382
+      },
+      {
+        "term": "oncology",
+        "tfidf": 0.354,
+        "weight": -0.3102,
+        "contribution": -0.1098
+      },
+      {
+        "term": "residency",
+        "tfidf": 0.354,
+        "weight": -0.2606,
+        "contribution": -0.0922
+      },
+      {
+        "term": "medical",
+        "tfidf": 0.0639,
+        "weight": -1.1878,
+        "contribution": -0.0759
+      },
+      {
+        "term": "dental",
+        "tfidf": 0.0618,
+        "weight": -1.2232,
+        "contribution": -0.0756
+      },
+      {
+        "term": "medical dental",
+        "tfidf": 0.0668,
+        "weight": -1.1197,
+        "contribution": -0.0748
+      },
+      {
+        "term": "match",
+        "tfidf": 0.0646,
+        "weight": -1.1507,
+        "contribution": -0.0744
+      }
+    ],
+    "nlpTrace": {
+      "rawLength": 678,
+      "cleanedText": "clinical pharmacist outpatient oncology gulf coast cancer institute houston tx currencyamount currencyamount year pharmd active state pharmacist license pgy1 pgy2 residency usp 800 verify chemotherapy dosing protocols counsel oncology patients on supportive care regimens participate in daily multidisciplinary hematology rounds and ensure usp 800 sterile compounding compliance across infusion clinics requires pharmd degree active state licensure in good standing and pgy1 or pgy2 oncology residency full malpractice insurance cme allowance medical dental benefits and retirement matching provided ...",
+      "tokenCount": 84,
+      "stopWordsRemovedCount": 8,
+      "normalizedTokensSample": [
+        "clinical",
+        "pharmacist",
+        "outpatient",
+        "oncology",
+        "gulf",
+        "coast",
+        "cancer",
+        "institute",
+        "houston",
+        "tx",
+        "currencyamount",
+        "currencyamount",
+        "year",
+        "pharmd",
+        "active",
+        "state",
+        "pharmacist",
+        "license",
+        "pgy1",
+        "pgy2",
+        "residency",
+        "usp",
+        "verify",
+        "chemotherapy"
+      ],
+      "bigramCount": 74,
+      "tfidfNonZeroCount": 36,
+      "metadataSignals": []
+    },
+    "geminiAnalysis": {
+      "status": "unavailable",
+      "model": "gemini-4-hydrogen",
+      "summaryExplanation": "Batch import scan evaluated directly by the trained Logistic Regression + TF-IDF classifier.",
+      "suspiciousIndicators": [
+        "Standard corporate phrasing and consistent job structure"
+      ],
+      "verificationChecklist": [
+        "Verify the company domain and official careers listing before applying.",
+        "Never pay upfront fees or share banking details during recruitment."
+      ]
+    },
+    "modelVersionId": "lr-tfidf-e8a519fe"
+  },
+  {
+    "id": "scan-52c60c942c",
+    "createdAt": "2026-11-18T19:33:04.571Z",
+    "input": {
+      "title": "Home-Based Package Inspection & Forwarding Coordinator",
+      "companyName": "Confidential Express Logistics",
+      "companyWebsite": "https://express-parcel-jobs.blogspot.com",
+      "location": "Remote, US",
+      "salary": "$4,200 / month + $100 per parcel bonus",
+      "description": "Work from home receiving international e-commerce packages at your residence, verifying box contents, printing prepaid FedEx labels, and forwarding parcels to regional clients. No warehouse commute required! Must submit a small refundable $75 security deposit via gift card or Zelle for barcode scanner activation and provide your bank routing number for weekly direct deposit. Contact @parcel_recruiter on Telegram today. Home address, Printer, WhatsApp, Active bank account",
+      "requiredSkills": "Home address, Printer, WhatsApp, Active bank account",
+      "employmentType": "Part-time",
+      "experienceLevel": "Not Applicable"
+    },
+    "verdict": "Potentially Fake",
+    "riskLevel": "High",
+    "riskPercentage": 99.7,
+    "genuineProbability": 0.3,
+    "fakeProbability": 99.7,
+    "suspiciousIndicators": [
+      "Website URL is invalid, uses free hosting, or points to a high-risk domain",
+      "Directs applicants to off-platform messaging (WhatsApp/Telegram/DM)",
+      "Requests upfront fees, banking/PII details, gift cards, or money transfers"
+    ],
+    "explanation": "The Logistic Regression classifier assigned a 99.7% fraud risk score (62 matched TF-IDF features). Primary risk contributors included \"Currency amount ($)\", \"home\", \"whatsapp\", \"bank\".",
+    "topSuspiciousWords": [
+      {
+        "term": "Currency amount ($)",
+        "tfidf": 0.131,
+        "weight": 2.0664,
+        "contribution": 0.2706
+      },
+      {
+        "term": "home",
+        "tfidf": 0.1572,
+        "weight": 1.6718,
+        "contribution": 0.2629
+      },
+      {
+        "term": "whatsapp",
+        "tfidf": 0.1239,
+        "weight": 1.871,
+        "contribution": 0.2319
+      },
+      {
+        "term": "bank",
+        "tfidf": 0.1512,
+        "weight": 1.2056,
+        "contribution": 0.1823
+      },
+      {
+        "term": "address",
+        "tfidf": 0.1877,
+        "weight": 0.7941,
+        "contribution": 0.1491
+      },
+      {
+        "term": "deposit",
+        "tfidf": 0.1433,
+        "weight": 1.0198,
+        "contribution": 0.1461
+      },
+      {
+        "term": "bank account",
+        "tfidf": 0.153,
+        "weight": 0.8899,
+        "contribution": 0.1362
+      },
+      {
+        "term": "account",
+        "tfidf": 0.1201,
+        "weight": 1.0908,
+        "contribution": 0.131
+      },
+      {
+        "term": "home address",
+        "tfidf": 0.2046,
+        "weight": 0.6352,
+        "contribution": 0.13
+      },
+      {
+        "term": "telegram",
+        "tfidf": 0.0784,
+        "weight": 1.6232,
+        "contribution": 0.1272
+      }
+    ],
+    "topGenuineSignals": [
+      {
+        "term": "provide",
+        "tfidf": 0.1069,
+        "weight": -0.3987,
+        "contribution": -0.0426
+      },
+      {
+        "term": "us",
+        "tfidf": 0.0395,
+        "weight": -0.7709,
+        "contribution": -0.0305
+      },
+      {
+        "term": "logistic",
+        "tfidf": 0.1109,
+        "weight": -0.1478,
+        "contribution": -0.0164
+      },
+      {
+        "term": "regional",
+        "tfidf": 0.1155,
+        "weight": -0.0814,
+        "contribution": -0.0094
+      },
+      {
+        "term": "bonu",
+        "tfidf": 0.0709,
+        "weight": -0.1088,
+        "contribution": -0.0077
+      },
+      {
+        "term": "inspection",
+        "tfidf": 0.1208,
+        "weight": -0.0271,
+        "contribution": -0.0033
+      },
+      {
+        "term": "security",
+        "tfidf": 0.1155,
+        "weight": -0.027,
+        "contribution": -0.0031
+      }
+    ],
+    "nlpTrace": {
+      "rawLength": 664,
+      "cleanedText": "home based package inspection forwarding coordinator confidential express logistics remote us currencyamount month currencyamount per parcel bonus home address printer whatsapp active bank account work from home receiving international e commerce packages at your residence verifying box contents printing prepaid fedex labels and forwarding parcels to regional clients no warehouse commute required must submit a small refundable currencyamount security deposit via gift card or zelle for barcode scanner activation and provide your bank routing number for weekly direct deposit contact parcel recru...",
+      "tokenCount": 90,
+      "stopWordsRemovedCount": 16,
+      "normalizedTokensSample": [
+        "home",
+        "package",
+        "inspection",
+        "forward",
+        "coordinator",
+        "confidential",
+        "express",
+        "logistic",
+        "remote",
+        "us",
+        "currencyamount",
+        "month",
+        "currencyamount",
+        "parcel",
+        "bonu",
+        "home",
+        "address",
+        "printer",
+        "whatsapp",
+        "active",
+        "bank",
+        "account",
+        "home",
+        "receiv"
+      ],
+      "bigramCount": 73,
+      "tfidfNonZeroCount": 62,
+      "metadataSignals": [
+        "Website URL is invalid, uses free hosting, or points to a high-risk domain",
+        "Directs applicants to off-platform messaging (WhatsApp/Telegram/DM)",
+        "Requests upfront fees, banking/PII details, gift cards, or money transfers"
+      ]
+    },
+    "geminiAnalysis": {
+      "status": "unavailable",
+      "model": "gemini-4-hydrogen",
+      "summaryExplanation": "Batch import scan evaluated directly by the trained Logistic Regression + TF-IDF classifier.",
+      "suspiciousIndicators": [
+        "Website URL is invalid, uses free hosting, or points to a high-risk domain",
+        "Directs applicants to off-platform messaging (WhatsApp/Telegram/DM)",
+        "Requests upfront fees, banking/PII details, gift cards, or money transfers"
+      ],
+      "verificationChecklist": [
+        "Verify the company domain and official careers listing before applying.",
+        "Never pay upfront fees or share banking details during recruitment."
+      ]
+    },
+    "modelVersionId": "lr-tfidf-e8a519fe"
+  },
+  {
+    "id": "scan-b09820a81e",
+    "createdAt": "2026-11-18T19:33:04.569Z",
+    "input": {
+      "title": "Urgent Work From Home Data Entry Clerk - Immediate Start",
+      "companyName": "Global Payroll Solutions",
+      "companyWebsite": "",
+      "location": "Remote, Anywhere",
+      "salary": "$3,500 - $5,000 weekly",
+      "description": "Immediate hiring! Earn $3,500 to $5,000 per week typing simple forms from home. No experience required and no interview needed! Company will send an onboarding check to purchase your MacBook and software kit from our designated vendor before day one. Reply to fast.payroll.hr2026@gmail.com or message our hiring agent on WhatsApp and Telegram for instant activation and weekly bank wire transfer setup. Guaranteed unlimited earning potential! Basic typing, Smartphone or Laptop, WhatsApp or Telegram",
+      "requiredSkills": "Basic typing, Smartphone or Laptop, WhatsApp or Telegram",
+      "employmentType": "Full-time",
+      "experienceLevel": "Entry level"
+    },
+    "verdict": "Potentially Fake",
+    "riskLevel": "High",
+    "riskPercentage": 99.9,
+    "genuineProbability": 0.1,
+    "fakeProbability": 99.9,
+    "suspiciousIndicators": [
+      "No verifiable corporate website provided",
+      "Recruiter contact uses free webmail domain (@gmail.com)",
+      "Directs applicants to off-platform messaging (WhatsApp/Telegram/DM)",
+      "Requests upfront fees, banking/PII details, gift cards, or money transfers",
+      "Contains unrealistic pay promises, no-interview claims, or known scam task patterns",
+      "Compensation figure is anomalously high for the stated role or pay cadence"
+    ],
+    "explanation": "The Logistic Regression classifier assigned a 99.9% fraud risk score (72 matched TF-IDF features). Primary risk contributors included \"Currency amount ($)\", \"whatsapp\", \"telegram\", \"smartphone\".",
+    "topSuspiciousWords": [
+      {
+        "term": "Currency amount ($)",
+        "tfidf": 0.1413,
+        "weight": 2.0664,
+        "contribution": 0.2921
+      },
+      {
+        "term": "whatsapp",
+        "tfidf": 0.1458,
+        "weight": 1.871,
+        "contribution": 0.2728
+      },
+      {
+        "term": "telegram",
+        "tfidf": 0.1561,
+        "weight": 1.6232,
+        "contribution": 0.2534
+      },
+      {
+        "term": "smartphone",
+        "tfidf": 0.1333,
+        "weight": 1.4293,
+        "contribution": 0.1905
+      },
+      {
+        "term": "week",
+        "tfidf": 0.1211,
+        "weight": 1.5344,
+        "contribution": 0.1858
+      },
+      {
+        "term": "home",
+        "tfidf": 0.1059,
+        "weight": 1.6718,
+        "contribution": 0.177
+      },
+      {
+        "term": "basic",
+        "tfidf": 0.1782,
+        "weight": 0.9542,
+        "contribution": 0.17
+      },
+      {
+        "term": "immediate",
+        "tfidf": 0.1158,
+        "weight": 1.2981,
+        "contribution": 0.1503
+      },
+      {
+        "term": "earn",
+        "tfidf": 0.114,
+        "weight": 1.1903,
+        "contribution": 0.1357
+      },
+      {
+        "term": "typ",
+        "tfidf": 0.23,
+        "weight": 0.5805,
+        "contribution": 0.1335
+      }
+    ],
+    "topGenuineSignals": [
+      {
+        "term": "solution",
+        "tfidf": 0.121,
+        "weight": -0.2372,
+        "contribution": -0.0287
+      },
+      {
+        "term": "entry",
+        "tfidf": 0.1096,
+        "weight": -0.2132,
+        "contribution": -0.0234
+      },
+      {
+        "term": "data",
+        "tfidf": 0.1052,
+        "weight": -0.0092,
+        "contribution": -0.001
+      }
+    ],
+    "nlpTrace": {
+      "rawLength": 678,
+      "cleanedText": "urgent work from home data entry clerk immediate start global payroll solutions remote anywhere currencyamount currencyamount weekly basic typing smartphone or laptop whatsapp or telegram immediate hiring earn currencyamount to currencyamount per week typing simple forms from home no experience required and no interview needed company will send an onboarding check to purchase your macbook and software kit from our designated vendor before day one reply to emailtoken or message our hiring agent on whatsapp and telegram for instant activation and weekly bank wire transfer setup guaranteed unlimi...",
+      "tokenCount": 98,
+      "stopWordsRemovedCount": 28,
+      "normalizedTokensSample": [
+        "urgent",
+        "home",
+        "data",
+        "entry",
+        "clerk",
+        "immediate",
+        "start",
+        "global",
+        "payroll",
+        "solution",
+        "remote",
+        "anywhere",
+        "currencyamount",
+        "currencyamount",
+        "week",
+        "basic",
+        "typ",
+        "smartphone",
+        "laptop",
+        "whatsapp",
+        "telegram",
+        "immediate",
+        "hir",
+        "earn"
+      ],
+      "bigramCount": 67,
+      "tfidfNonZeroCount": 72,
+      "metadataSignals": [
+        "No verifiable corporate website provided",
+        "Recruiter contact uses free webmail domain (@gmail.com)",
+        "Directs applicants to off-platform messaging (WhatsApp/Telegram/DM)",
+        "Requests upfront fees, banking/PII details, gift cards, or money transfers",
+        "Contains unrealistic pay promises, no-interview claims, or known scam task patterns",
+        "Compensation figure is anomalously high for the stated role or pay cadence"
+      ]
+    },
+    "geminiAnalysis": {
+      "status": "unavailable",
+      "model": "gemini-4-hydrogen",
+      "summaryExplanation": "Batch import scan evaluated directly by the trained Logistic Regression + TF-IDF classifier.",
+      "suspiciousIndicators": [
+        "No verifiable corporate website provided",
+        "Recruiter contact uses free webmail domain (@gmail.com)",
+        "Directs applicants to off-platform messaging (WhatsApp/Telegram/DM)",
+        "Requests upfront fees, banking/PII details, gift cards, or money transfers",
+        "Contains unrealistic pay promises, no-interview claims, or known scam task patterns",
+        "Compensation figure is anomalously high for the stated role or pay cadence"
+      ],
+      "verificationChecklist": [
+        "Verify the company domain and official careers listing before applying.",
+        "Never pay upfront fees or share banking details during recruitment."
+      ]
+    },
+    "modelVersionId": "lr-tfidf-e8a519fe"
+  },
+  {
+    "id": "scan-11f535e3f2",
+    "createdAt": "2026-11-18T19:33:04.565Z",
+    "input": {
+      "title": "Senior Backend Software Engineer",
+      "companyName": "Northstar Cloud Systems",
+      "companyWebsite": "https://northstarcloud.io",
+      "location": "San Francisco, CA (Hybrid)",
+      "salary": "$145,000 - $185,000 / year",
+      "description": "Design and maintain high-throughput telemetry ingestion microservices in Go and TypeScript. Collaborate closely with SRE and product engineering teams on API latency budgets, zero-downtime PostgreSQL schema migrations, and automated integration testing pipelines. Candidates will participate in structured technical architecture interviews with engineering leadership. Comprehensive medical, dental, and vision coverage, 401(k) matching, annual learning stipend, and flexible PTO included. Go, TypeScript, PostgreSQL, Kubernetes, Distributed Systems, CI/CD",
+      "requiredSkills": "Go, TypeScript, PostgreSQL, Kubernetes, Distributed Systems, CI/CD",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior level"
+    },
+    "verdict": "Genuine",
+    "riskLevel": "Low",
+    "riskPercentage": 5.8,
+    "genuineProbability": 94.22,
+    "fakeProbability": 5.78,
+    "suspiciousIndicators": [
+      "Standard corporate phrasing and consistent job structure"
+    ],
+    "explanation": "The Logistic Regression classifier evaluated this posting as Genuine with 94.2% confidence (56 matched TF-IDF features). Legitimacy-weighted terms such as \"engineer\", \"year\", \"system\", \"typescript\" outweighed risk indicators.",
+    "topSuspiciousWords": [
+      {
+        "term": "Currency amount ($)",
+        "tfidf": 0.103,
+        "weight": 2.0664,
+        "contribution": 0.2129
+      },
+      {
+        "term": "zero",
+        "tfidf": 0.0926,
+        "weight": 0.602,
+        "contribution": 0.0557
+      },
+      {
+        "term": "interview",
+        "tfidf": 0.0951,
+        "weight": 0.5586,
+        "contribution": 0.0531
+      },
+      {
+        "term": "high",
+        "tfidf": 0.0951,
+        "weight": 0.2673,
+        "contribution": 0.0254
+      },
+      {
+        "term": "flexible",
+        "tfidf": 0.0861,
+        "weight": 0.2152,
+        "contribution": 0.0185
+      },
+      {
+        "term": "software",
+        "tfidf": 0.0978,
+        "weight": 0.016,
+        "contribution": 0.0016
+      }
+    ],
+    "topGenuineSignals": [
+      {
+        "term": "engineer",
+        "tfidf": 0.1408,
+        "weight": -1.2542,
+        "contribution": -0.1766
+      },
+      {
+        "term": "year",
+        "tfidf": 0.0497,
+        "weight": -2.1871,
+        "contribution": -0.1087
+      },
+      {
+        "term": "system",
+        "tfidf": 0.2117,
+        "weight": -0.5062,
+        "contribution": -0.1071
+      },
+      {
+        "term": "typescript",
+        "tfidf": 0.2362,
+        "weight": -0.4098,
+        "contribution": -0.0968
+      },
+      {
+        "term": "go",
+        "tfidf": 0.2608,
+        "weight": -0.275,
+        "contribution": -0.0717
+      },
+      {
+        "term": "kubernete",
+        "tfidf": 0.1995,
+        "weight": -0.3451,
+        "contribution": -0.0688
+      },
+      {
+        "term": "vision",
+        "tfidf": 0.0514,
+        "weight": -1.1803,
+        "contribution": -0.0606
+      },
+      {
+        "term": "dental vision",
+        "tfidf": 0.0525,
+        "weight": -1.1388,
+        "contribution": -0.0598
+      }
+    ],
+    "nlpTrace": {
+      "rawLength": 734,
+      "cleanedText": "senior backend software engineer northstar cloud systems san francisco ca hybrid currencyamount currencyamount year go typescript postgresql kubernetes distributed systems ci cd design and maintain high throughput telemetry ingestion microservices in go and typescript collaborate closely with sre and product engineering teams on api latency budgets zero downtime postgresql schema migrations and automated integration testing pipelines candidates will participate in structured technical architecture interviews with engineering leadership comprehensive medical dental and vision coverage 401 k mat...",
+      "tokenCount": 89,
+      "stopWordsRemovedCount": 14,
+      "normalizedTokensSample": [
+        "senior",
+        "backend",
+        "software",
+        "engineer",
+        "northstar",
+        "cloud",
+        "system",
+        "san",
+        "francisco",
+        "ca",
+        "hybrid",
+        "currencyamount",
+        "currencyamount",
+        "year",
+        "go",
+        "typescript",
+        "postgresql",
+        "kubernete",
+        "distribut",
+        "system",
+        "ci",
+        "cd",
+        "design",
+        "maintain"
+      ],
+      "bigramCount": 73,
+      "tfidfNonZeroCount": 56,
+      "metadataSignals": []
+    },
+    "geminiAnalysis": {
+      "status": "unavailable",
+      "model": "gemini-4-hydrogen",
+      "summaryExplanation": "Batch import scan evaluated directly by the trained Logistic Regression + TF-IDF classifier.",
+      "suspiciousIndicators": [
+        "Standard corporate phrasing and consistent job structure"
+      ],
+      "verificationChecklist": [
+        "Verify the company domain and official careers listing before applying.",
+        "Never pay upfront fees or share banking details during recruitment."
+      ]
+    },
+    "modelVersionId": "lr-tfidf-e8a519fe"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Fake Job Detection System – AI & NLP Based",
+  "description": "Full-stack AI and NLP-powered fraudulent job posting detection platform featuring TF-IDF vectorization, a trainable Logistic Regression classifier on EMSCAD datasets, Gemini API linguistic analysis, and persistent prediction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
